@@ -4,7 +4,7 @@
 
 ## Links
 
-Heroku: 
+Heroku: <br>
 GitHub Repo: https://github.com/lydiawdesign/BudgetTracker_LW
 
 ## User Story
@@ -20,7 +20,6 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Screenshots
 
 ## Technologies Used
-
 
 ## Contact Info
 

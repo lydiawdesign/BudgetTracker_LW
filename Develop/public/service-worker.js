@@ -41,8 +41,8 @@ self.addevtListener('activate', (evt) => {
 });
 
 self.addevtListener('fetch', (evt) => {
-  if (evt.request.url.includes('/api/')) {
-    evt.respondWith(
+    if (evt.request.url.startsWith(self.location.origin)) {
+        evt.respondWith(
       caches.match(evt.request).then((cachedResponse) => {
         if (cachedResponse) {
           return cachedResponse;
