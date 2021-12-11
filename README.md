@@ -18,8 +18,21 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/87274229/145694147-63657da3-76e9-4824-b81c-d033e5c3c394.png)
+
 
 ## Technologies Used
+
+mongoDB
+mongoDB Atlas
+Heroku
+Javascript
+HTML
+CSS
+Mongoose
+npm
+express
+lite-server
 
 ## Contact Info
 
