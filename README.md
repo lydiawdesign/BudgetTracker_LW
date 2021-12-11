@@ -2,6 +2,8 @@
 
 ## Description
 
+An application where a user can track their budget digitally while seeing a real time chart. This app should function both online and offline; a user is able to add expenses and deposits to their budget with and without a connection. 
+
 ## Links
 
 Heroku: https://git.heroku.com/cryptic-scrubland-20515.git <br>
@@ -23,16 +25,16 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Technologies Used
 
-mongoDB
-mongoDB Atlas
-Heroku
-Javascript
-HTML
-CSS
-Mongoose
-npm
-express
-lite-server
+mongoDB <br>
+mongoDB Atlas <br>
+Heroku <br>
+Javascript <br>
+HTML <br>
+CSS <br>
+Mongoose <br>
+npm <br>
+express <br>
+lite-server <br>
 
 ## Contact Info
 
