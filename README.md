@@ -6,7 +6,7 @@ An application where a user can track their budget digitally while seeing a real
 
 ## Links
 
-Heroku: https://git.heroku.com/cryptic-scrubland-20515.git <br>
+Heroku: https://budget-tracker-lw.herokuapp.com/ <br>
 GitHub Repo: https://github.com/lydiawdesign/BudgetTracker_LW
 
 ## User Story
